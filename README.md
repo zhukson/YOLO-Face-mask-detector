@@ -5,3 +5,5 @@ Two formats of files are available:
 1.jupyter notebook version(see notebook version)
 
 2.python version(see src)
+
+Currently, this project has not finished yet, I am still dealing with the model training part.
