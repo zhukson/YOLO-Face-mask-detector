@@ -6,4 +6,9 @@ Two formats of files are available:
 
 2.python version(see src)
 
+Dataset:
+https://drive.google.com/drive/folders/1Ol5BBz20njw1ifR0Po6i6n8pnGDbRC5U?usp=sharing
+
+
+
 Currently, this project has not finished yet, I am still dealing with the model training part.
