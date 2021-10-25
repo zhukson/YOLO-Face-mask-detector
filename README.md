@@ -11,4 +11,4 @@ https://drive.google.com/drive/folders/1Ol5BBz20njw1ifR0Po6i6n8pnGDbRC5U?usp=sha
 
 
 
-Currently, this project has not finished yet, I am still dealing with the model training part.
+Currently, this project has not been finished yet, I am still dealing with the model training part.
