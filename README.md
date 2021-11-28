@@ -10,6 +10,10 @@ https://drive.google.com/drive/folders/1Ol5BBz20njw1ifR0Po6i6n8pnGDbRC5U?usp=sha
 https://drive.google.com/drive/u/1/folders/1Gm-UEpnZxVOHVtNcAUvwA9jh8-BzUzUw
 
 
-
+for yolo v5
 ![no mask](https://user-images.githubusercontent.com/83719401/143724404-d0372a48-4827-46d3-9104-800cc9e0c073.PNG)
 ![withmask](https://user-images.githubusercontent.com/83719401/143724406-81975f75-4e0e-4d78-8481-c3859e8706c9.PNG)
+
+for yolo v1
+![image](https://user-images.githubusercontent.com/83719401/143724422-3b5adb7b-6367-4e2d-93c3-693d1ac73e3e.png)
+
