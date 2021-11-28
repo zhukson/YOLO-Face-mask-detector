@@ -1,6 +1,7 @@
 # YOLO-Face-mask-detector 
 ### Supervisor: Liang Liang
-### 1. The implementation of object detection method YOLO V1 from scratch and its application with face mask detection.
+### 1. The implementation of two-stages face mask detection model:
+        YOLO V1 face detector + AlexNet classifier
 ### 2. YOLO V5 face mask detection
 both of the two projects are done in jupyter notebook version
 ### Dataset:
