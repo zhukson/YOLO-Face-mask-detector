@@ -9,16 +9,24 @@ both of the two projects are done in jupyter notebook version
 
 #### face detection:
 !pip install roboflow
+
 from roboflow import Roboflow
+
 rf = Roboflow(api_key="AigV8d7mGnZ9MMZyXOX0")
+
 project = rf.workspace().project("face-maks-yolo-v1")
+
 dataset = project.version(2).download("voc")
 
 #### face mask classification:
 !pip install roboflow
+
 from roboflow import Roboflow
+
 rf = Roboflow(api_key="AigV8d7mGnZ9MMZyXOX0")
+
 project = rf.workspace().project("facemask-vzqch")
+
 dataset = project.version(3).download("folder")
 
 ### for yolo v5:
