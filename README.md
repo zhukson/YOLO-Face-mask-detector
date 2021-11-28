@@ -43,5 +43,5 @@ https://drive.google.com/drive/u/1/folders/1Gm-UEpnZxVOHVtNcAUvwA9jh8-BzUzUw
 
 ### for yolo v1
 
-![image](https://user-images.githubusercontent.com/83719401/143724422-3b5adb7b-6367-4e2d-93c3-693d1ac73e3e.png)
-
+![捕获](https://user-images.githubusercontent.com/83719401/143785063-6c1841b0-e78e-4d46-9dfb-411bcfa36cc8.PNG)
+![捕获1](https://user-images.githubusercontent.com/83719401/143785064-e0742d72-fe5e-4c1e-9953-8bbd00d86989.PNG)
