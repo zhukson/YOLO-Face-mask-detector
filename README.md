@@ -2,7 +2,9 @@
 ## Supervisor: Liang Liang
 ## 1. The implementation of two-stages face mask detection model:
         YOLO V1 face detector + AlexNet face mask classifier
-        Using two stages model because YOLO v1 performs bad on small objects like face mask. Therefore we used larger object face for detection.
+        Using two stages model because YOLO v1 performs bad on small objects like face mask. 
+        
+        Therefore we used larger object face for detection.
 ## 2. YOLO V5 face mask detection
 both of the two projects are done in jupyter notebook version
 ## Dataset:
