@@ -1,10 +1,27 @@
 # YOLO-Face-mask-detector 
-### Supervisor: Liang Liang
-### 1. The implementation of two-stages face mask detection model:
+## Supervisor: Liang Liang
+## 1. The implementation of two-stages face mask detection model:
         YOLO V1 face detector + AlexNet classifier
-### 2. YOLO V5 face mask detection
+## 2. YOLO V5 face mask detection
 both of the two projects are done in jupyter notebook version
-### Dataset:
+## Dataset:
+### for yolo v1:
+
+#### face detection:
+!pip install roboflow
+from roboflow import Roboflow
+rf = Roboflow(api_key="AigV8d7mGnZ9MMZyXOX0")
+project = rf.workspace().project("face-maks-yolo-v1")
+dataset = project.version(2).download("voc")
+
+#### face mask classification:
+!pip install roboflow
+from roboflow import Roboflow
+rf = Roboflow(api_key="AigV8d7mGnZ9MMZyXOX0")
+project = rf.workspace().project("facemask-vzqch")
+dataset = project.version(3).download("folder")
+
+### for yolo v5:
 https://drive.google.com/drive/folders/1Ol5BBz20njw1ifR0Po6i6n8pnGDbRC5U?usp=sharing
 
 ### pretrained weights(best.pt for YOLO V5, 60 epoechs for YOLO V1):
