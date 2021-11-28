@@ -7,7 +7,7 @@ both of the two projects are done in jupyter notebook version
 ## Dataset:
 ### for yolo v1:
 
-#### face detection:
+#### download code for face detection:
 !pip install roboflow
 
 from roboflow import Roboflow
@@ -18,7 +18,7 @@ project = rf.workspace().project("face-maks-yolo-v1")
 
 dataset = project.version(2).download("voc")
 
-#### face mask classification:
+#### download code for face mask classification:
 !pip install roboflow
 
 from roboflow import Roboflow
