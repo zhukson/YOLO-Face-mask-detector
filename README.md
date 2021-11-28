@@ -5,7 +5,7 @@
         Using two stages model because YOLO v1 performs bad on small objects like face mask. 
         Therefore we used larger object face for detection.
 ## 2. YOLO V5 face mask detection
-both of the two projects are done in jupyter notebook version
+both of the two projects were done in jupyter notebook version
 ## Dataset:
 ### for two-stages yolo v1:
 
