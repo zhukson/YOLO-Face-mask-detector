@@ -47,10 +47,12 @@ https://drive.google.com/drive/u/1/folders/1Gm-UEpnZxVOHVtNcAUvwA9jh8-BzUzUw
 
 ## video inference:
 ### for yolo v5
-https://user-images.githubusercontent.com/83719401/145906538-789fb94b-da18-47e2-aa84-187741c91aaf.mp4
+https://user-images.githubusercontent.com/83719401/145906967-483b7d4d-0df3-46c2-89af-15860df7fb16.mp4
+
+
 
 ### for two-stages yolo v1
-https://user-images.githubusercontent.com/83719401/145906585-5c922eef-123a-4880-8412-38fbaac5b8da.mp4
+https://user-images.githubusercontent.com/83719401/145906886-5e10e9cf-579f-470c-ab9a-dff5a19b76c3.mp4
 
 
 
