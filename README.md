@@ -38,12 +38,19 @@ https://drive.google.com/drive/folders/1Ol5BBz20njw1ifR0Po6i6n8pnGDbRC5U?usp=sha
 https://drive.google.com/drive/u/1/folders/1Gm-UEpnZxVOHVtNcAUvwA9jh8-BzUzUw
 
 ## Inference result:
+## image inference:
 ### for yolo v5
-
-![no mask](https://user-images.githubusercontent.com/83719401/143724404-d0372a48-4827-46d3-9104-800cc9e0c073.PNG)
-![withmask](https://user-images.githubusercontent.com/83719401/143724406-81975f75-4e0e-4d78-8481-c3859e8706c9.PNG)
+![image](https://user-images.githubusercontent.com/83719401/145906171-f391a8f9-9a52-4cd4-90b7-9ed4b19ecc6c.png)
 
 ### for two-stages yolo v1
+![image](https://user-images.githubusercontent.com/83719401/145906164-49d16bbc-7f11-4dbd-8c75-a26ab045ba44.png)
 
-![mask](https://user-images.githubusercontent.com/83719401/143785112-f6780f58-43ce-4917-9b0a-b558f314016b.PNG)
-![no mask](https://user-images.githubusercontent.com/83719401/143785064-e0742d72-fe5e-4c1e-9953-8bbd00d86989.PNG)
+## video inference:
+### for yolo v5
+https://user-images.githubusercontent.com/83719401/145906277-13c4cb36-daea-4ace-82fe-e1ed1fdca4ca.mp4
+
+### for two-stages yolo v1
+https://user-images.githubusercontent.com/83719401/145906263-056d39d6-1b19-4f90-831d-6f3acc49d5a6.mp4
+
+
+
