@@ -50,7 +50,9 @@ https://drive.google.com/drive/u/1/folders/1Gm-UEpnZxVOHVtNcAUvwA9jh8-BzUzUw
 https://user-images.githubusercontent.com/83719401/145906277-13c4cb36-daea-4ace-82fe-e1ed1fdca4ca.mp4
 
 ### for two-stages yolo v1
-https://user-images.githubusercontent.com/83719401/145906263-056d39d6-1b19-4f90-831d-6f3acc49d5a6.mp4
+https://user-images.githubusercontent.com/83719401/145906385-30511d4e-75ee-42a5-903a-aa5399b39015.mp4
+
+
 
 
 
