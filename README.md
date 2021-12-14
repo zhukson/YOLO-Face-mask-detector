@@ -37,7 +37,6 @@ https://drive.google.com/drive/folders/1Ol5BBz20njw1ifR0Po6i6n8pnGDbRC5U?usp=sha
 ## pretrained weights(best.pt for YOLO V5, 60 epoechs for YOLO V1):
 https://drive.google.com/drive/u/1/folders/1Gm-UEpnZxVOHVtNcAUvwA9jh8-BzUzUw
 
-## Inference result:
 ## image inference:
 ### for yolo v5
 ![image](https://user-images.githubusercontent.com/83719401/145906171-f391a8f9-9a52-4cd4-90b7-9ed4b19ecc6c.png)
@@ -49,8 +48,6 @@ https://drive.google.com/drive/u/1/folders/1Gm-UEpnZxVOHVtNcAUvwA9jh8-BzUzUw
 see demo
 ### for yolo v5
 https://user-images.githubusercontent.com/83719401/145906967-483b7d4d-0df3-46c2-89af-15860df7fb16.mp4
-
-
 
 ### for two-stages yolo v1
 https://user-images.githubusercontent.com/83719401/145906886-5e10e9cf-579f-470c-ab9a-dff5a19b76c3.mp4
