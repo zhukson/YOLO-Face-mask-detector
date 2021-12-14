@@ -46,6 +46,7 @@ https://drive.google.com/drive/u/1/folders/1Gm-UEpnZxVOHVtNcAUvwA9jh8-BzUzUw
 ![image](https://user-images.githubusercontent.com/83719401/145906164-49d16bbc-7f11-4dbd-8c75-a26ab045ba44.png)
 
 ## video inference:
+see demo
 ### for yolo v5
 https://user-images.githubusercontent.com/83719401/145906967-483b7d4d-0df3-46c2-89af-15860df7fb16.mp4
 
